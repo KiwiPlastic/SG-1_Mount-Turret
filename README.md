@@ -1,4 +1,4 @@
-# SG-1 Mount, Facial recognitio Nerf Turret
+# SG-1 Mount, Facial Recognition Nerf Turret
 ![Walle-E Chillibasket](https://github.com/KiwiPlastic/Wall-E_ESP32-C3_BLE_Gamepad_Ctrl/blob/main/Images/Chillibasket1.jpg?raw=true)
 
 ## 🚀 Features
