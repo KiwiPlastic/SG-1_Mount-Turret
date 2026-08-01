@@ -1,10 +1,39 @@
-# SG-1 Mount, Facial Recognition Nerf Turret
-![](https://github.com/KiwiPlastic/SG-1_Mount-Turret/blob/main/Images/SG-1b.jpg?raw=true)
+# SG-1 Mount, Facial Recognition, Nerf Turret
+
+<img width="349" height="422" alt="SG-1a" src="https://github.com/user-attachments/assets/22d6c305-55a1-4a27-bbe1-77e930ffd318" />
+<img width="334" height="404" alt="SG-1b" src="https://github.com/user-attachments/assets/75d1f8fb-b471-4978-aa28-5ca504ae46e8" />
+<img width="313" height="410" alt="SG-1c" src="https://github.com/user-attachments/assets/1380dabc-f1e4-4ed0-94df-851d6f36fc8d" />
+<img width="411" height="302" alt="SG-1 App" src="https://github.com/user-attachments/assets/12d8cef6-2480-4326-a43e-955b3969b2b7" />
+
+## 🚀 Summary
+
+ - This is an extension of the ![RMB Frankenboard](https://github.com/KiwiPlastic/RMB_Frankenboard) project
+ - Basicaly a Nerf Blaster on a Mobile platform with a Huskylens AI vison camera.
+ - It incorporates 2 x ESP32c3's using  I2C as Master/Slave.
+ - Uses a Android App for control and configuration.
+ - Size:	H = 338		W = 291	D = 186
 
 ## 🚀 Features
- 26-7-26 WIP
- 
-•	Size:	H = 338		W = 291	D = 186
+ - Mobile Tracks Platform ![Print in place PipBot](https://www.3dhonza.com/pipbot)
+ - Elevation and Rotation 25kg Servo
+ - RMB Frankenboard Half Dart Blaster 
+ - Brushless Motors
+ - Solenoid Pusher
+ - Closed loop limit Switches
+ - Ultra Sonic Distance sensors
+ - R2D2 Sounds
+ - Ped Ometer from Rotary Encoders
+ - Battery Volts
+ - CLI
+ - **Android App**
+   - Uses BLE to ESP32 no router/Internet.
+   - Phone dos not need a SIM
+   - Jostick control - Tracks
+   - Select Fire Mode, single, Burst, Full Auto
+   - Trigger
+   - Horn
+   - Elevation and Rotation
+   - Slider settings controls
 
 ## 📦 Build & Installation
 
