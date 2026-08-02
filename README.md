@@ -42,7 +42,7 @@
 <img width="380" height="317" alt="image" src="https://github.com/user-attachments/assets/6430bb34-6628-49ea-b699-034fafdbf2f4" />
 
 ## 📦 Diagrams
-<img width="541" height="286" alt="RMB-Frankenboard V4 Diagram" src="https://github.com/user-attachments/assets/c2ee2c38-55c5-4c8c-ac33-f3c9e0887808" />
+<img width="1707" height="1041" alt="SG-1 Mount_cct" src="https://github.com/user-attachments/assets/30e39c50-f44f-403d-9f6c-5bb0a062a04c" />
 
 ## 📜 License
 Distributed under the MIT License. See `LICENSE` for more information.
